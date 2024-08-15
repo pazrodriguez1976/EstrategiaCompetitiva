@@ -5,3 +5,5 @@ Capitulo 4: Repositorios remotos
 Capitulo 5: Cambio ejercico 3
 Capitulo 6: Hago cambios al Indice y agrego el archivo a Rama1
 Capitulo 7: Invite a Naty y Mariela para que me aprueben el PR
+Capitulo 8: Acabo de crear la rama2, y lo agrego al indice
+Capitulo 9: Vamos por el pr y el merge
